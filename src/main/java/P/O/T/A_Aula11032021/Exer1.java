@@ -13,7 +13,6 @@ Saída: 55.5
 public class Exer1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 	
